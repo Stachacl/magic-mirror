@@ -6,11 +6,11 @@ export default function Clock() {
     useEffect(() => {
         setInterval(() => {
             const date = new Date();
-            setClockState(date.toLocaleDateString())
-
+            setClockState(date.toLocaleTimeString());
         }, 1000) //how often clock should be updated - every 1 second.
-    })
+    }, []);
+
   return (
-    <div>Clock</div>
+    <div>{clockState}</div>
   )
 }
