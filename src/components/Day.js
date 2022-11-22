@@ -7,7 +7,7 @@ export default function Day() {
         setInterval(() => {
             const date = new Date();
             setDayState(date.toLocaleDateString());
-        }, 1000) //how often clock should be updated - every 1 second.
+        }, 60000) //how often clock should be updated - every 60 seconds.
     }, []);
 
   return (
