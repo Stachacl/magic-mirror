@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/magic-mirror/static/css/main.c2acc792.css",
+    "main.js": "/magic-mirror/static/js/main.5427fac4.js",
+    "static/js/787.442325d4.chunk.js": "/magic-mirror/static/js/787.442325d4.chunk.js",
+    "index.html": "/magic-mirror/index.html",
+    "main.c2acc792.css.map": "/magic-mirror/static/css/main.c2acc792.css.map",
+    "main.5427fac4.js.map": "/magic-mirror/static/js/main.5427fac4.js.map",
+    "787.442325d4.chunk.js.map": "/magic-mirror/static/js/787.442325d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2acc792.css",
+    "static/js/main.5427fac4.js"
+  ]
+}
