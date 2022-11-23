@@ -1,3 +1,7 @@
+
+// This file is for reference only. Data was coppied from 
+// https://api.openweathermap.org/data/2.5/weather?lat=-33.8718&lon=151.2002&appid={myAPI}, so I //can easily check what info i can get from that url //
+
 {
   "coord": { "lon": 151.2002, "lat": -33.8718 },
   "weather": [
