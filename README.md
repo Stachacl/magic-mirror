@@ -2,7 +2,7 @@
 
 This project was created for Raspberry Pi DIY Smart Mirror project.
 
-Read my blog post about it on Medium:
+Read my blog post about the mirror creation process on Medium:
 [Magic Mirror — my first ever Raspberry Pi project](https://medium.com/@stacha.l/magic-mirror-my-first-ever-raspberry-pi-project-ced7985ff1a)
 
 <img src="https://medium.com/@stacha.l/magic-mirror-my-first-ever-raspberry-pi-project-ced7985ff1a">
