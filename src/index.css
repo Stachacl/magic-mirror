@@ -25,6 +25,7 @@ code {
   position: relative;
   background-color: rgba(0, 0, 0, 0);
   color: #fff;
+  text-align: center;
 }
 
 .app:before {
@@ -39,16 +40,17 @@ code {
 
 .app .search {
   text-align: center;
-  padding: 0.5rem;
+  padding: 1.2rem;
 }
 
 .app input {
-  padding: .7rem 1rem;
+  padding: .7rem 0.5rem;
   font-size: 1.2rem;
   border-radius: 25px;
   border: 1px solid rgba(255, 255, 255, 0.705);
   background: rgba(255,255,255, 0.1);
   color: #f8f8f8ca;
+  text-align: center;
 }
 
 ::placeholder {
@@ -59,7 +61,7 @@ code {
   max-width: 700px;
   height: 700px;
   margin: auto;
-  padding: 0 1rem;
+  padding:  2rem;
   position: relative;
   top: 10%;
   display: flex;
@@ -85,7 +87,7 @@ code {
   text-align: center;
   width: 100%;
   margin: 1rem auto;
-  padding: 1rem;
+  padding: 0.5rem;
   border-radius: 12px;
   background-color: rgba(255,255,255, 0.2);
 }
