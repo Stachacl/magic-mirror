@@ -4,12 +4,13 @@ This project was created for Raspberry Pi DIY Smart Mirror project.
 
 Read my blog post about it on Medium:
 
-link will be added here:
+link to the app:
 
-[http://localhost:3000](http://localhost:3000)
+[Magic Mirror](https://stachacl.github.io/magic-mirror/)
 
 ## Technologies:
 
 - Raspberry Pi
 - Linux
 - React JS
+- Open Weather API
