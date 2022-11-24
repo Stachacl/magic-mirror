@@ -5,6 +5,8 @@ import Weather from "./components/Weather";
 
 function App() {
   return (
+    <div className="position-on-mirror"> 
+
     <div className="App">
       <header className="App-header">
         <p>Hello, Stacha</p>
@@ -16,6 +18,7 @@ function App() {
           <Weather /> 
         </div>
       </header>
+    </div>
     </div>
   );
 }
