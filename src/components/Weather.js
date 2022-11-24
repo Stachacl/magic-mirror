@@ -33,7 +33,7 @@ function Weather() {
             <p>{data.name}</p>
           </div>
           <div className="temp">
-            {data.main ? <h1>{data.main.temp.toFixed()}°F</h1> : null}
+            {data.main ? <h1> {(data.main.temp.toFixed()-32)/1.8} °C</h1> : null}
           </div>
           <div className="description">
             {data.weather ? <p>{data.weather[0].main}</p> : null}
